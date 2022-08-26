@@ -20,7 +20,7 @@
   "rules": {
     // override/add rules settings here, such as:
     // 'vue/no-unused-vars': 'error'
-    "no-loops/no-loops": "warn",
+//    "no-loops/no-loops": "warn",
 
     "prettier/prettier": [
       "error",
